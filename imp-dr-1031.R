@@ -3,7 +3,6 @@ library(corrplot)
 library(Rtsne)
 library(umap)
 
-setwd("/Users/Yaqian/Study/UCLA/Workshop")
 #work flow: Preprocessing → normalization → t-SNE→ classification algorithm
 
 # Section 0: loading & cleaning dataset ####
